@@ -1,0 +1,6 @@
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_4\obj\Debug\Clase_4.csprojResolveAssemblyReference.cache
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_4\bin\Debug\Clase_4.exe.config
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_4\bin\Debug\Clase_4.exe
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_4\bin\Debug\Clase_4.pdb
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_4\obj\Debug\Clase_4.exe
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_4\obj\Debug\Clase_4.pdb
