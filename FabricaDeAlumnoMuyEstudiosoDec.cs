@@ -9,7 +9,6 @@ namespace Clase_4
 			IAlumno d = new AlumnoDecoradoLegajoDec(a);
 			d = new AlumonDecoradoNL(d);
 			d = new AlumnoDecoradoPAD(d);
-			d = new AlumnoDecoradoPAD(d);
 			d = new AlumnoDecoradoAsterisco(d);
 			
 			return d;
@@ -19,7 +18,6 @@ namespace Clase_4
 			IAlumno a = (IAlumno)FabricaDeComparables.crearPorTeclado(4);
 			IAlumno d = new AlumnoDecoradoLegajoDec(a);
 			d = new AlumonDecoradoNL(d);
-			d = new AlumnoDecoradoPAD(d);
 			d = new AlumnoDecoradoPAD(d);
 			d = new AlumnoDecoradoAsterisco(d);
 			

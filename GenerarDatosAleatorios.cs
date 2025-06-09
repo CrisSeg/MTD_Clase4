@@ -6,15 +6,14 @@ namespace Clase_4
 {
 	public class GenerarDatosAleatorios
 	{
+		private static Random rn = new Random();
+
 		public int numeroAleatorio(int max){
-			Random rn = new Random();
-			
 			int num = rn.Next(0, max);
 			return num;
 		}
 		
 		public string stringAleatorio(int cantidad){
-			Random rn = new Random();
 			const string letras = "abcdefghijklmnopqrstuvwyz";
 			StringBuilder palabra = new StringBuilder();
 			

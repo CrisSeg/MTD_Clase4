@@ -1,0 +1,5 @@
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_4\bin\Release\Clase_4.exe.config
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_4\bin\Release\Clase_4.exe
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_4\obj\Release\Clase_4.csproj.AssemblyReference.cache
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_4\obj\Release\Clase_4.csproj.CoreCompileInputs.cache
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_4\obj\Release\Clase_4.exe

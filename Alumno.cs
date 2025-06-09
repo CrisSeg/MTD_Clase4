@@ -8,7 +8,7 @@ namespace Clase_4
 		private int legajo;
 		private int promedio, calificacion;
 		private EstrategiaDeComparacion estrategia;
-		
+		private static Random rn = new Random();
 		public Alumno(string n, int d, int l, int p): base(n, d){
 			this.nombre = n;
 			this.dni = d;
@@ -73,7 +73,6 @@ namespace Clase_4
 		
 		public void distraerse(){
 			string[] l = new string[]{"Mirando el celular", "Dibujando en el margen de la carpeta", "Tirando aviones de papel"};
-			Random rn = new Random();
 			
 			Console.WriteLine(l[rn.Next(0,3)]);
 		}
@@ -89,8 +88,7 @@ namespace Clase_4
 		
 		//Practica 4 Ejercicio 1
 		public int responderPregunta(int pregunta){
-			Random rn = new Random();
-			return rn.Next(1,3);
+			return rn.Next(0,3);
 		}
 		
 		public string mostrarCalificacion(){

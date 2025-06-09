@@ -88,8 +88,5 @@ namespace Clase_4
 				p.escribirEnElPizarron();
 			}
 		}
-		
-		//Practica 4 Ejrecicio 4
-		
 	}
 }
